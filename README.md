@@ -7,7 +7,7 @@ This is a starter repo for anyone looking to build a dApp over the bootcamp. The
 Clone the project
 
 ```bash
-  git clone https://github.com/web3tbilisi/bootcampStarter.git
+  https://github.com/lukaTarimana/CryptoDino.git
 ```
 
 Go to the project directory
