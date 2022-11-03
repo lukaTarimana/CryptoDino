@@ -1,7 +1,8 @@
 
 # Web3 Tbilisi Bootcamp Starter Repo
 
-This is a starter repo for anyone looking to build a dApp over the bootcamp. The aim of this repo is to help you accelerate your time and focus entirely on building your project instead of sitting and configuring a base repository for hours.
+This is a First blockchain application from starter repo of bootcamp.
+
 ## Run Locally
 
 Clone the project
@@ -46,11 +47,6 @@ See anything missing or would like to add more? Well, Contributions are always w
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Support
-
-For support, just reach out to any of the Technical Team members at the bootcamp. You can also choose to make a quick stop at StackOverflow, GitHub Discussions, GitHub Issues and all the other nitty gritty solution spots you know of.
-
-
 ## Acknowledgements
 
  - [RainbowKit](https://www.rainbowkit.com/)
@@ -59,5 +55,5 @@ For support, just reach out to any of the Technical Team members at the bootcamp
  
 ## Authors
 
-- [@bilalmotiwala](https://www.github.com/bilalmotiwala)
+- [@lukaTarimana](https://github.com/lukaTarimana)
 
